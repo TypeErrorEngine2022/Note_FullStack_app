@@ -1,0 +1,6 @@
+[submodule "Note_Backend"]
+	path = Note_Backend
+	url = https://github.com/TypeErrorEngine2022/Note_Backend.git
+[submodule "Note_Frontend"]
+	path = Note_Frontend
+	url = https://github.com/TypeErrorEngine2022/Note_Frontend.git
